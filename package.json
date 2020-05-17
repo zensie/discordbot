@@ -1,0 +1,28 @@
+{
+  "name": "deezbot",
+  "version": "1.0.0",
+  "description": "Developed By Ndus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Ndus",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cheerio": "^1.0.0-rc.3",
+    "discord.js": "^11.6.4",
+    "dotenv": "^8.2.0",
+    "enmap": "^5.2.4",
+    "erela.js": "^1.1.7",
+    "fs": "0.0.1-security",
+    "google-translate-api": "^2.3.0",
+    "nodemon": "^2.0.3",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "superagent": "^5.2.2",
+    "ytdl-core": "^2.0.0"
+  },
+  "devDependencies": {}
+}
